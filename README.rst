@@ -2,7 +2,7 @@
 Plone : le CMS de l'espace
 ==========================
 
-Plone : rapide, puissant, ergonomique. 
+ Plone : rapide, puissant, ergonomique. 
 
 Déjà avec les modules qu'il intègre de base, on peut faire avec Plone un intranet, un site collaboratif ou de publication. Pour aller plus loin encore, un grand nombre de modules additionnels produits par la communauté de développeurs amène diverses fonctionnalités allant de la gestion des media à la création d'applications web. 
 
@@ -11,12 +11,12 @@ La gestion de contenu
 
 Sans rien ajouter, Plone vient avec un grand nombre de fonctionnalités
 
-    Logique d'arborescence
-    Types de contenu existants (dossier, page, événement, fichier, image, ...)
-    Collection permettant d'afficher une liste de contenu selon certains critères
-    Gestion fine des droits par dossier, par groupe ou utilisateur
-    Workflow de publication différents applicables à chaque types de contenu
-    Historique des modifications
+* Logique d'arborescence
+* Types de contenu existants (dossier, page, événement, fichier, image, ...)
+* Collection permettant d'* une liste de contenu selon certains critères
+* Gestion fine des droits par dossier, par groupe ou utilisateur
+* Workflow de publication différents applicables à chaque types de contenu
+* Historique des modifications
 
 (Démos à faire autour de ces points)
 
@@ -35,12 +35,12 @@ Modules de media
 * Retoucher ses images avec collective.externalimageeditor
 * Afficher une galerie photo grâce à collective.gallery
 * Afficher une vidéo Youtube avec OEmbed grâce à collective.oembed
-* écouter du son avec dewplayer (pas testé)
+* écouter du son avec collective.dewplayer
 
 
 Modules pour la publication et le web social
 =============================================
- (titre à revoir ?)
+(titre à revoir ?)
 
 * Afficher des blocs avec collective.masonry
 * Afficher un caroussel grâce à collective.easyslider
@@ -56,3 +56,6 @@ Modules de Cartographie
 
 Aller encore plus loin avec Plomino
 =====================================
+
+Webographie
+===========
